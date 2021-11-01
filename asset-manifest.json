@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MessMenuCard-ReactApp/static/css/main.c507e78f.chunk.css",
+    "main.js": "/MessMenuCard-ReactApp/static/js/main.28afe8b2.chunk.js",
+    "main.js.map": "/MessMenuCard-ReactApp/static/js/main.28afe8b2.chunk.js.map",
+    "runtime-main.js": "/MessMenuCard-ReactApp/static/js/runtime-main.0f7614f9.js",
+    "runtime-main.js.map": "/MessMenuCard-ReactApp/static/js/runtime-main.0f7614f9.js.map",
+    "static/js/2.379cced9.chunk.js": "/MessMenuCard-ReactApp/static/js/2.379cced9.chunk.js",
+    "static/js/2.379cced9.chunk.js.map": "/MessMenuCard-ReactApp/static/js/2.379cced9.chunk.js.map",
+    "static/js/3.e235f4a4.chunk.js": "/MessMenuCard-ReactApp/static/js/3.e235f4a4.chunk.js",
+    "static/js/3.e235f4a4.chunk.js.map": "/MessMenuCard-ReactApp/static/js/3.e235f4a4.chunk.js.map",
+    "index.html": "/MessMenuCard-ReactApp/index.html",
+    "static/css/main.c507e78f.chunk.css.map": "/MessMenuCard-ReactApp/static/css/main.c507e78f.chunk.css.map",
+    "static/js/2.379cced9.chunk.js.LICENSE.txt": "/MessMenuCard-ReactApp/static/js/2.379cced9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f7614f9.js",
+    "static/js/2.379cced9.chunk.js",
+    "static/css/main.c507e78f.chunk.css",
+    "static/js/main.28afe8b2.chunk.js"
+  ]
+}
